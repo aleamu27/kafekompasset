@@ -1,1 +1,2 @@
-app som finner nærmeste kafe etter visse kriterier. For lite funkskonalitet til å legge ut på appstore, om du ønsker kafekompasset: kopier og send på testflight.
+app som finner nærmeste kafe etter avstand og søkevalg.
+ønsker du tilgang til appen. send dm så legger jeg deg til i testflight.
